@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/chenpengyu/PAT/PAT_B1023/build",
+  "command": "clang++-3.8    -I../include   -O0 -Wall -g2 -ggdb   -o CMakeFiles/B1023.dir/src/main.cpp.o -c /home/chenpengyu/PAT/PAT_B1023/src/main.cpp",
+  "file": "/home/chenpengyu/PAT/PAT_B1023/src/main.cpp"
+}
+]

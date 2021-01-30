@@ -1,0 +1,3 @@
+/home/chenpengyu/PAT/A1036/build/CMakeFiles/edit_cache.dir
+/home/chenpengyu/PAT/A1036/build/CMakeFiles/rebuild_cache.dir
+/home/chenpengyu/PAT/A1036/build/CMakeFiles/A1036.dir

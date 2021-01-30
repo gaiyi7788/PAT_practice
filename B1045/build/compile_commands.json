@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/chenpengyu/PAT/B1045/build",
+  "command": "clang++-3.8    -I../include   -O0 -Wall -g2 -ggdb   -o CMakeFiles/B1045.dir/src/main.cpp.o -c /home/chenpengyu/PAT/B1045/src/main.cpp",
+  "file": "/home/chenpengyu/PAT/B1045/src/main.cpp"
+}
+]
